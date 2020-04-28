@@ -1,4 +1,3 @@
 Whatsup?
 Adding text
-
-add text again
+delete
